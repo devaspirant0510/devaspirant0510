@@ -1,5 +1,10 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)
+# ✨DeepLearning is GOD ✨
+### 우주를 초월하는 슈퍼울트라 개발자 지망생 👍
+### ✨blog : <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+### ✨youtube : <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaspirant0510&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
