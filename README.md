@@ -5,7 +5,7 @@
 ### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)<br>
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seungho020510)<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={seungho020510})](https://solved.ac/{seungho020510})<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaspirant0510&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
