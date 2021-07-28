@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=seungho0510)](https://solved.ac/seungho0510)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaspirant0510&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaspirant0510&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
