@@ -3,6 +3,11 @@
 ### 👍 우주를 초월하는 슈퍼울트라 개발자 지망생 👍
 ###  <a href="https://blog.naver.com/nova020510">✨blog ✨</a>
 ### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
+### technology of interest
+- WebRTC
+- GAN
+- Golang
+- Kotlin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=seungho0510)](https://solved.ac/seungho0510)<br>
