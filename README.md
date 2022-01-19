@@ -1,5 +1,5 @@
 
-# ✨DeepLearning is GOD ✨
+# ✨Converging to Infinity ✨
 ### 👍 우주를 초월하는 슈퍼울트라 개발자 지망생 👍
 ###  <a href="https://blog.naver.com/nova020510">✨blog ✨</a>
 ### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
