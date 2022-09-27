@@ -1,7 +1,7 @@
 
 # 🕴 2022.05.09 ~ 2023.11.08 🕴
 # ✨Radiate to infinity ✨
-### 👍 우주를 초월하는 슈퍼울트라 개발자 지망생 👍
+### 👍 개발자 지망생 👍
 ###  <a href="https://blog.naver.com/nova020510">✨blog ✨</a>
 ### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
 ### technology of interest
