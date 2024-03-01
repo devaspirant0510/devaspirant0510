@@ -6,10 +6,13 @@
 ### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
 ### technology of interest
 - WebRTC
-- Android Compose
-- MVVM architecture
+- Clean architecture
 - Nestjs
-- Nextjs
+- Reactjs
+- SpringBoot
+- Flutter
+
+[![wakatime](https://wakatime.com/badge/user/2a8da4c8-637f-4038-83ce-fb2bf86c261b.svg)](https://wakatime.com/@2a8da4c8-637f-4038-83ce-fb2bf86c261b)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaspirant0510)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=seungho0510)](https://solved.ac/seungho0510)<br>
