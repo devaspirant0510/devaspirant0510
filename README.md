@@ -3,7 +3,6 @@
 # ✨Radiate to infinity ✨
 ### 👍 개발자 지망생 👍
 ###  <a href="https://blog.naver.com/nova020510">✨blog ✨</a>
-### <a href="https://www.youtube.com/channel/UCVXZYtf62qsP4ifgKBmKthQ">✨youtube ✨</a>
 ### technology of interest
 - WebRTC
 - Clean architecture
