@@ -6,10 +6,8 @@
 ### technology of interest
 - WebRTC
 - Clean architecture
-- Nestjs
-- Reactjs
 - SpringBoot
-- Flutter
+- MSA
 
 [![wakatime](https://wakatime.com/badge/user/2a8da4c8-637f-4038-83ce-fb2bf86c261b.svg)](https://wakatime.com/@2a8da4c8-637f-4038-83ce-fb2bf86c261b)
 
