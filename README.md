@@ -1,7 +1,6 @@
 
 # 🕴 2022.05.09 ~ 2023.11.08 🕴
 # ✨Radiate to infinity ✨
-### 👍 개발자 지망생 👍
 ###  <a href="https://blog.naver.com/nova020510">✨blog ✨</a>
 ### technology of interest
 - WebRTC
